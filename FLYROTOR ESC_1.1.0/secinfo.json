@@ -1,0 +1,14 @@
+{
+    "configurator": {
+        "version": "00010100",
+        "link": "FLYROTOR_ESC_1.1.0_20241230.zip"
+    },
+    "models": [
+        {
+            "type": "heli",
+            "model": "150A",
+            "version": "00010102",
+            "link": "FlyRotorESC_HELI_150A_1.1.2_20250115.fw"
+        }
+    ]
+}
